@@ -1,4 +1,4 @@
-                                       Analog Clock
+                         Analog Clock
 
 An Analog Clock built using HTML, CSS, and JavaScript. This project demonstrates the creation of a simple, functional analog clock that displays the current time dynamically in the browser.
 
