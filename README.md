@@ -9,8 +9,12 @@ FEATURES
 
 INSTALLATION
 
-1. Clone the repository to your local machine: git clone https://github.com/someshsingh-7251/analog-clock.git
-2. Navigate to the project directory: cd analog-clock
+1. Clone the repository to your local machine:
+
+       git clone https://github.com/someshsingh-7251/analog-clock.git
+2. Navigate to the project directory:
+
+       cd analog-clock
 3. Open index.html in your preferred browser to view the Analog Clock.
 
 USAGE
