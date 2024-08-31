@@ -1,14 +1,13 @@
-                         Analog Clock
+## Analog Clock
 
 An Analog Clock built using HTML, CSS, and JavaScript. This project demonstrates the creation of a simple, functional analog clock that displays the current time dynamically in the browser.
 
-FEATURES
-1. Real-time Clock: The clock updates every second to reflect the current time.
-2. Responsive Design: The clock is responsive and adjusts to different screen sizes.
-3. Pure HTML, CSS, and JavaScript: No external libraries or frameworks are used.
+## Features
+- **Real-time Clock:** The clock updates every second to reflect the current time.
+- **Responsive Design:** The clock is responsive and adjusts to different screen sizes.
+- **Pure HTML, CSS, and JavaScript:** No external libraries or frameworks are used.
 
-INSTALLATION
-
+## Installation
 1. Clone the repository to your local machine:
 
        git clone https://github.com/someshsingh-7251/analog-clock.git
@@ -17,11 +16,10 @@ INSTALLATION
        cd analog-clock
 3. Open index.html in your preferred browser to view the Analog Clock.
 
-USAGE
-
+## Usage
 Once the project is set up, you can view the clock by simply opening the index.html file in a web browser. The clock will display the current time with moving hour, minute, and second hands.
 
-PROJECT STRUCTURE
+## Project Structure
 
     analog-clock/
     │
@@ -35,17 +33,16 @@ PROJECT STRUCTURE
     │
     └── README.md         # Project README file
 
-TECHNOLOGIES USED
-1. HTML5: Structure of the web page
-2. CSS3: Styling and layout of the clock
-3. JavaScript: Functionality to make the clock tick in real-time
+## Technology Used
+- **HTML5:** Structure of the web page
+- **CSS3:** Styling and layout of the clock
+- **JavaScript:** Functionality to make the clock tick in real-time
 
-CONTRIBUTING
-
+## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-LICENSE
-
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
+## Note:
+Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
