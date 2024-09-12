@@ -1,4 +1,4 @@
-## Analog Clock
+# Analog Clock
 
 An Analog Clock built using HTML, CSS, and JavaScript. This project demonstrates the creation of a simple, functional analog clock that displays the current time dynamically in the browser.
 
@@ -44,5 +44,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Note:
-Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
+---
+
+*Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==*
